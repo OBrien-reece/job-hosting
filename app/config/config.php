@@ -7,7 +7,7 @@ define('DB_USER', 'root');
 define('DB_PASS', '');
 define('DB_NAME', 'job-listing');
 
-define('APPNAME', 'OBR');
+define('APPNAME', 'ALCATRAZ');
 
 define("URLROOT", 'http://localhost/job-hosting');
 

@@ -1,0 +1,20 @@
+.big-text {
+    font-size: 52px;
+    margin: 20px 0;
+    color: darkorange;
+}
+.btn-styling {
+    margin: 30px 10px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.btn-first {
+    background-color: darkorange;
+    color: #fff;
+}
+.btn-subscribers {
+    background: transparent;
+    border: 1px solid darkorange;
+    color: #333;
+}
